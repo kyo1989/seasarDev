@@ -1,0 +1,8 @@
+DaoType=S2JDBC
+DefaultResourcePath=/strutsDev/src/main/resources
+DefaultRootPackage=root
+DefaultSrcPath=/strutsDev/src/main/java
+ServletPath=strutsDev
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp
+eclipse.preferences.version=1
